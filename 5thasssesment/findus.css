@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(90deg,rgba(200,200,255,0.5),rgba(100,255,100,0.5));
+}
+
+h1{
+    color:blue;
+    text-align:center;
+}
+.a{
+    text-align: center;
+}

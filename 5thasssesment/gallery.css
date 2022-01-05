@@ -1,0 +1,33 @@
+nav{
+    position: fixed;
+    top: 0px;
+    left:0px;
+    width:100%;
+    border:1px orange solid; 
+    background-color:rgb(189,135,67); 
+    height:29px; 
+    font-size:25px
+}
+.red a{
+    text-decoration:none; 
+    color:black; 
+    font-size:20px;
+}
+.a{
+    border:0px white solid;
+}
+h1{
+    color:darkblue;font-size: 40px
+}
+.b{
+    border:1px black solid; 
+    height:350px; 
+    width:50%
+}
+.c{
+    border:1px black solid; 
+    height:350px; 
+    width:49.9%; 
+    float:right; 
+    margin-top:-352px;
+}
