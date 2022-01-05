@@ -1,0 +1,32 @@
+body{
+    background-color: white; 
+    width:100%; 
+    margin:0px;
+    padding:0px; 
+    height:85px
+}
+.a{
+    border:0px white solid; 
+    background-color:orange; 
+    margin-top: -9px
+}
+h1{
+    color:darkblue;
+    font-size: 40px
+}
+hr{
+    border:0px white solid; 
+    background-color: black;
+    height:2px
+}
+.b{
+    border:0px black solid; 
+   position:relative; 
+   left:630px;
+   margin-top:-430px;
+    width:350px; 
+    height:430px
+}
+img{
+    border-radius: 40px 0px;
+}

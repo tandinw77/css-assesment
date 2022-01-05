@@ -1,0 +1,48 @@
+
+body{
+    background-color: black; 
+    width:100%; 
+    height:auto;
+   
+}
+.a{
+    border:0px white solid; 
+    background-color:orange; 
+    margin-top: -9px;
+}
+h1{
+    color:blue;
+    font-size: 40px;
+}
+.b{
+    border:2px white solid;
+    color:aliceblue; 
+    background-color:black;
+     width: 600px; 
+     height:350px;
+}
+.c{
+    border: 2px white solid;
+    color:aliceblue; 
+    float: right;
+    margin-top:-350px; 
+    height:350px ; 
+    width:50%; 
+    background-color:black;
+}
+.d{
+    color:aliceblue;
+}
+.d h2{
+    text-align: center;
+    color:goldenrod;
+
+}
+.e{
+    position:fixed-top;
+}
+.e a{
+    text-decoration: none;
+    color:black; 
+    font-size:20px;
+}
